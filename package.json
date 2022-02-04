@@ -2,7 +2,7 @@
   "name": "ionic-angular-course",
   "version": "0.0.1",
   "author": "Ionic Framework",
-  "homepage": "https://stringnamematt.github.io/",
+  "homepage": "https://stringnamematt.github.io",
   "scripts": {
     "predeploy": "gh-pages -d build",
     "deploy": "gh-pages -d build",
