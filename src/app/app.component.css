@@ -1,3 +1,21 @@
 h5 {
   font-size: 45px;
 }
+
+.logo {
+  height: 150px !important;
+  width: 150px !important;
+  max-width: 150px !important;
+  max-height: 150px !important;
+}
+
+
+ion-title {
+  padding-bottom: 20px;
+  font-size: 15px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+ion-header, ion-toolbar {
+  height: 35px;
+}
