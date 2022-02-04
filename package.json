@@ -2,7 +2,7 @@
   "name": "ionic-angular-course",
   "version": "0.0.1",
   "author": "Ionic Framework",
-  "homepage": "https://ionicframework.com/",
+  "homepage": "https://github.com/StringnameMatt/state-04-finished",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
