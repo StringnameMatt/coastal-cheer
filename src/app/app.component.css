@@ -1,9 +1,7 @@
-h5 {
-  font-size: 45px;
-}
+
 
 .logo {
-  height: 30vh;
+  height: 20vh;
   width: auto;
   margin: auto;
   display: block;
@@ -19,7 +17,7 @@ ion-title {
 }
 
 ion-header, ion-toolbar {
-  height: 35px;
+  height: 28px;
 }
 
 .paragraph {
@@ -27,6 +25,18 @@ ion-header, ion-toolbar {
   text-align: center;
 }
 
-ion-img {
+
+
+.header {
+  max-height: 28px;
+  max-width: 25px;
 
 }
+
+.title {
+  max-width: fit-content;
+  max-height: 100px;
+  height: 80px;
+
+}
+
