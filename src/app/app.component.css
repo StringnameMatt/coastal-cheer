@@ -3,10 +3,12 @@ h5 {
 }
 
 .logo {
-  height: 150px !important;
-  width: 150px !important;
-  max-width: 150px !important;
-  max-height: 150px !important;
+  height: 30vh;
+  width: auto;
+  margin: auto;
+  display: block;
+
+
 }
 
 
@@ -18,4 +20,13 @@ ion-title {
 
 ion-header, ion-toolbar {
   height: 35px;
+}
+
+.paragraph {
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+}
+
+ion-img {
+
 }
