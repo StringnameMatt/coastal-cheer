@@ -17,7 +17,7 @@ ion-title {
 }
 
 ion-header, ion-toolbar {
-  height: 28px;
+  height: 45px;
 }
 
 .paragraph {
@@ -35,8 +35,9 @@ ion-header, ion-toolbar {
 
 .title {
   max-width: fit-content;
-  max-height: 100px;
+  max-height: 40px;
   height: 80px;
 
 }
+
 
